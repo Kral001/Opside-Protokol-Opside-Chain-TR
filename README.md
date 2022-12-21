@@ -3,11 +3,11 @@
 ![asss](https://user-images.githubusercontent.com/98269269/208972104-23e56bfe-6466-441a-9f89-63439a520b28.jpg)
 
 
-Opside Chain, sınırsız ölçeklenebilirliğe sahip ZK dostu modüler bir blockchain platformudur.
+- Opside Chain, sınırsız ölçeklenebilirliğe sahip ZK dostu modüler bir blockchain platformudur.
 
-Dağıtılmışlık, güvenlik ve ölçeklenebilirlikten oluşan blok zincirinin imkansız üçgen sorununu ele almak için Opside, tüm sistemi dikey olarak bir varlık katmanına, bir yürütme katmanına, bir Toplama katmanına ve bir veriye bölen dikey katmanlı bir mimari önerir. ve aynı anda organik olarak birleştirilir, böylece kararlı bir üçgen mimari elde edilir.
+- Dağıtılmışlık, güvenlik ve ölçeklenebilirlikten oluşan blok zincirinin imkansız üçgen sorununu ele almak için Opside, tüm sistemi dikey olarak bir varlık katmanına, bir yürütme katmanına, bir Toplama katmanına ve bir veriye bölen dikey katmanlı bir mimari önerir. ve aynı anda organik olarak birleştirilir, böylece kararlı bir üçgen mimari elde edilir.
 
-Opside, doğası gereği ZK-Rollup zincir dışı ölçeklendirme çözümüne dosttur, ZK-Rollup'lar arasındaki birlikte çalışabilirliği yerel olarak destekler ve büyük ölçekli ademi merkeziyetçilik ve güvenlik sağlarken ölçeklenebilirlik sorununu temelde çözen sınırsız ölçeklenebilirlik elde etmek için ZK-Rollup'lara güvenir.
+- Opside, doğası gereği ZK-Rollup zincir dışı ölçeklendirme çözümüne dosttur, ZK-Rollup'lar arasındaki birlikte çalışabilirliği yerel olarak destekler ve büyük ölçekli ademi merkeziyetçilik ve güvenlik sağlarken ölçeklenebilirlik sorununu temelde çözen sınırsız ölçeklenebilirlik elde etmek için ZK-Rollup'lara güvenir.
 
 - Opside, uygulamalar için başka bir üç katmanlı mimari sunar. Katman 2, katman 1'e köprüler aracılığıyla bağlı bir yan zincirdir ve katman 3, katman 2 üzerinde çalışan bir toplama koleksiyonudur, diğer adıyla "temel katman < - yan zincir < - toplama"
 
