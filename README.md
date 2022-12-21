@@ -16,3 +16,7 @@ Opside, doğası gereği ZK-Rollup zincir dışı ölçeklendirme çözümüne d
 - Layer2 köprüsü ve ölçeklendirme çözümü, önemsiz gaz ücretleri ile 2 saniyelik bir blok hedefini hedefleyecektir. Fikir birliğine, doğrulayıcı düğümlerden oluşan bir ağ tarafından ulaşılacaktır.
 
 ![as](https://user-images.githubusercontent.com/98269269/208972591-e91f29a1-4548-4b88-8b89-e0302a77114e.png)
+
+# Projenin Roadmap'i Aşağıdaki Gibidir
+
+![ass](https://user-images.githubusercontent.com/98269269/208972876-9843c1ab-a29b-4c53-b201-3fc01e3ddad9.jpg)
